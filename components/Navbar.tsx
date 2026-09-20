@@ -73,7 +73,7 @@ export default function Navbar() {
 
           {/* CV */}
           <a
-            href="/cv/RetajMagdy-CV.pdf"
+            href="/cv/Retaj_Magdy_CV.pdf"
             download
             className="flex items-center gap-2 rounded-xl bg-slate-900 px-4 py-2.5 text-sm font-semibold text-white transition hover:scale-105 dark:bg-white dark:text-slate-950"
           >
@@ -130,7 +130,7 @@ export default function Navbar() {
 
             {/* Mobile CV */}
             <a
-              href="/cv/RetajMagdy-CV.pdf"
+              href="/cv/Retaj_Magdy_CV.pdf"
               download
               className="mt-2 flex items-center justify-center gap-2 rounded-xl bg-slate-900 py-3 text-sm font-semibold text-white dark:bg-white dark:text-slate-950"
             >
